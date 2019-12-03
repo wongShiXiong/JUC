@@ -2,7 +2,7 @@ package juc;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
-/*Test*/
+/*Test1*/
 class LockNumber{
 
     private int number = 0;
